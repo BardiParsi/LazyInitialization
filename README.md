@@ -5,6 +5,7 @@ This repository contains a C++ solution that demonstrates the proper way of impl
 
 ## Requirements
 - C++20 compatible compiler
+- This code has been tested and confirmed to work with both Mingw g++ and Windows MSVC compilers. GCC compiler should be avoided.
 - Standard C++ libraries
 - Git
 
